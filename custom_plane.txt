@@ -1,0 +1,2 @@
+This branch is use to generate custom code for arduplane, 
+basicaly to change the parachute deploy failsafe to work properly for a fast moving aircraft.
